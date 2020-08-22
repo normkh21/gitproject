@@ -1,5 +1,4 @@
-This is my first line in my git tracked file
-Second change
+Git introduction 
 https://github.com/normkh21/gitproject.git
 
 …or create a new repository on the command line
@@ -15,3 +14,7 @@ git push -u origin master
 git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project
+
+Git collaboration with Github
+- git push
+- git set upstream origin master
