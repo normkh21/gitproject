@@ -22,3 +22,4 @@ Git collaboration with Github
 
 -chanages from my pc before getting GitHub changess
 -changes from Github
+- Someone changes from github
